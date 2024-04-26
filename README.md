@@ -1,4 +1,4 @@
-#Tic-Tac-Toe Game
+# Tic-Tac-Toe Game
 
 A coded game in python language using minimax algorithm.
 Features- Human vs Computer and Multiplayer mode.
